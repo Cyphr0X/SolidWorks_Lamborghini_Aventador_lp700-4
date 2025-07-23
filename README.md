@@ -8,4 +8,4 @@ Here are two new figures showcasing the model:
 *Figure 1: Front angle view of the Aventador model*
 
 ![rendered_ver2](https://github.com/user-attachments/assets/f9e3fb51-2020-44a8-ac30-511b824d5b67)
-*Figure 2: Rear-side perspective with open doors*
+*Figure 2: Rear-side perspective of the Lamborghini Aventador*
